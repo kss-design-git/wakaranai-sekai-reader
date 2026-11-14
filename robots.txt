@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# The HTML pages contain meta robots noindex; crawlers must be allowed to read it.
